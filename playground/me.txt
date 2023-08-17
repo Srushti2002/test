@@ -1,6 +1,0 @@
-{{#user}
-Name: Srushti Virendra Deshmukh
-Skills: HTML, CSS, JS, react, Next.js
-Email: srushtideshmukh54@gmail.com
-{{/user}}
-
